@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey yash here ^_^
+open source enthusiast
+below average linux user
 
 <!--
 **kid-ye/kid-ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
