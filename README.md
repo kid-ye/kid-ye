@@ -6,5 +6,3 @@ reach out :
 [linkedin](https://linkedin.com/in/ye-yash)
 
 ![kidye](kidye.png)
-
-check out my work here
