@@ -5,4 +5,3 @@ reach out :
 [yashguptabms@gmail.com](mailto:yashguptabms@gmail.com)
 [linkedin](https://linkedin.com/in/ye-yash)
 
-![kidye](kidye.png)
