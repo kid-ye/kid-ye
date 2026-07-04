@@ -5,5 +5,5 @@ seeking internship or entry-level roles.
 reach out :
 [yashguptabms@gmail.com](mailto:yashguptabms@gmail.com)
 [linkedin](https://linkedin.com/in/ye-yash)
-[portfolio](https://kidye.vercel.com)
+[portfolio](https://kidye.vercel.app)
 [twitter](https://x.com/KidyeYash)
