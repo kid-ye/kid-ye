@@ -1,7 +1,8 @@
-hey i am an electronics undergraduate focused on software engineering.
-Seeking internship or entry-level roles.
+hey i am yash, an electronics undergrad working on projects ranging everything between electronics and software. 
+seeking internship or entry-level roles.
+
 
 reach out :
 [yashguptabms@gmail.com](mailto:yashguptabms@gmail.com)
 [linkedin](https://linkedin.com/in/ye-yash)
-
+[portfolio](https://kidye.vercel.com)
